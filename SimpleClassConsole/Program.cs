@@ -112,20 +112,18 @@ class Airplane
     }
     public int GetTotalTime()
     {
-        int startYear = StartDate.SetGetYear;
-        int startMonth = StartDate.SetGetMonth;
-        int startDay = StartDate.SetGetDay;
-        int startHours = StartDate.SetGetHours;
-        int startMinutes = StartDate.SetGetMinutes;
+        int startTotalMinutes = StartDate.SetGetYear * 365 * 24 * 60 +
+                         StartDate.SetGetMonth * 30 * 24 * 60 +
+                         StartDate.SetGetDay * 24 * 60 +
+                         StartDate.SetGetHours * 60 +
+                         StartDate.SetGetMinutes;
 
-        int finishYear = FinishDate.SetGetYear;
-        int finishMonth = FinishDate.SetGetMonth;
-        int finishDay = FinishDate.SetGetDay;
-        int finishHours = FinishDate.SetGetHours;
-        int finishMinutes = FinishDate.SetGetMinutes;
+        int finishTotalMinutes = FinishDate.SetGetYear * 365 * 24 * 60 +
+                                 FinishDate.SetGetMonth * 30 * 24 * 60 +
+                                 FinishDate.SetGetDay * 24 * 60 +
+                                 FinishDate.SetGetHours * 60 +
+                                 FinishDate.SetGetMinutes;
 
-        int startTotalMinutes = startYear * 365 * 24 * 60 + startMonth * 30 * 24 * 60 + startDay * 24 * 60 + startHours * 60 + startMinutes;
-        int finishTotalMinutes = finishYear * 365 * 24 * 60 + finishMonth * 30 * 24 * 60 + finishDay * 24 * 60 + finishHours * 60 + finishMinutes;
 
         return finishTotalMinutes - startTotalMinutes;
     }
