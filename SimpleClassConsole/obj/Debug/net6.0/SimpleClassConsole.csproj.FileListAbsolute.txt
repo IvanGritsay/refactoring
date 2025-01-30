@@ -1,0 +1,28 @@
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.AssemblyInfoInputs.cache
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.AssemblyInfo.cs
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.csproj.CoreCompileInputs.cache
+D:\visual studio\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.exe
+D:\visual studio\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.deps.json
+D:\visual studio\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.runtimeconfig.json
+D:\visual studio\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.dll
+D:\visual studio\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.pdb
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.dll
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\refint\SimpleClassConsole.dll
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.pdb
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.genruntimeconfig.cache
+D:\visual studio\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\ref\SimpleClassConsole.dll
+D:\visual\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.exe
+D:\visual\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.deps.json
+D:\visual\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.runtimeconfig.json
+D:\visual\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.dll
+D:\visual\oop-lab5\SimpleClassConsole\bin\Debug\net6.0\SimpleClassConsole.pdb
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.AssemblyInfoInputs.cache
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.AssemblyInfo.cs
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.csproj.CoreCompileInputs.cache
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.dll
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\refint\SimpleClassConsole.dll
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.pdb
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\SimpleClassConsole.genruntimeconfig.cache
+D:\visual\oop-lab5\SimpleClassConsole\obj\Debug\net6.0\ref\SimpleClassConsole.dll
