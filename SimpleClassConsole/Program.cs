@@ -129,10 +129,9 @@ class Airplane
     }
     public bool IsArriving()
     {
-        return StartDate.SetGetDay == FinishDate.SetGetDay &&
-               StartDate.SetGetMonth == FinishDate.SetGetMonth &&
-               StartDate.SetGetYear == FinishDate.SetGetYear;
+        return StartDate.Equals(FinishDate);
     }
+
 
 }
 class Program
