@@ -14,7 +14,7 @@ class Date
     {
 
     }
-    public Date(int year, int month, int day, int hours, int minutes)
+    public Date(int year, int month, int day = 1, int hours = 0, int minutes = 0)
     {
         Year = year;
         Month = month;
@@ -23,15 +23,7 @@ class Date
         Minutes = minutes;
     }
 
-    public Date(int year, int month, int hours, int minutes)
-    {
-        Year = year;
-        Month = month;
-        Hours = hours;
-        Minutes = minutes;
-    }
-
-        public Date(Date copy)
+    public Date(Date copy)
     {
         Year = copy.Year;
         Month = copy.Month;
