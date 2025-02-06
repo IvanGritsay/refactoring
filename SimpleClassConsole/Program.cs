@@ -8,14 +8,14 @@ class Airplane
     protected DateTime StartDate;
     protected DateTime FinishDate;
 
-    public Airplane() { }
+    public Airplane() : this("", "", DateTime.MinValue, DateTime.MinValue) { }
 
-    public Airplane(string startCity, string finishCity, DateTime startDate, DateTime finishDate)
+    public Airplane(string startCity, string finishCity, DateTime startDate, DateTime? finishDate = null)
     {
         StartCity = startCity;
         FinishCity = finishCity;
         StartDate = startDate;
-        FinishDate = finishDate;
+        FinishDate = finishDate ?? DateTime.MinValue;
     }
 
     public string SetGetStartCity
