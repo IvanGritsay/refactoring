@@ -50,7 +50,8 @@ class Airplane
 
     public bool IsArriving()
     {
-        return StartDate.Date == FinishDate.Date;
+        return new DateTime(StartDate.Year, StartDate.Month, StartDate.Day, StartDate.Hour, StartDate.Minute, 0) ==
+               new DateTime(FinishDate.Year, FinishDate.Month, FinishDate.Day, FinishDate.Hour, FinishDate.Minute, 0);
     }
 }
 
