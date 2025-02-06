@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "k2xtas6Qc9hMEGjimAYa3a6fcTWQGxgSOl9muwRmjzu842korMNLCDL3U1C7hxbJar8Nn5+pz4JmLFuSyzwgoA==",
+  "dgSpecHash": "1uNmuuoNw2w=",
   "success": true,
-  "projectFilePath": "D:\\visual\\oop-lab5\\SimpleClassConsole\\SimpleClassConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hi_my\\Source\\Repos\\refactoringGIV\\SimpleClassConsole\\SimpleClassConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hi_my\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\hi_my\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\hi_my\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\hi_my\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
